@@ -29,7 +29,7 @@ Welcome to the Travel Landing Page project! This responsive website showcases th
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/chula805/travel-landing-page.git
+   git clone https://github.com/chula805/Travel-Website.git
    ```
 
 2. Open the project in your favorite code editor (like Visual Studio Code).
@@ -38,7 +38,7 @@ Welcome to the Travel Landing Page project! This responsive website showcases th
 
 🌐 Live Demo
 
-Check out the live demo [here](#) to experience the beauty of our travel landing page.
+Check out the live demo [here](https://chula805.github.io/Travel-Website/) to experience the beauty of our travel landing page.
 
 📬 Feedback
 
