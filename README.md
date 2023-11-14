@@ -38,7 +38,7 @@ Welcome to the Travel Landing Page project! This responsive website showcases th
 
 🌐 Live Demo
 
-Check out the live demo [here](https://chula805.github.io/Travel-Website/) to experience the beauty of our travel landing page.
+Check out the live demo [https://chula805.github.io/Travel-Website/](#) to experience the beauty of our travel landing page.
 
 📬 Feedback
 
